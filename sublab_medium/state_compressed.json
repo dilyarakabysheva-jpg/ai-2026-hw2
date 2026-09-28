@@ -1,0 +1,22 @@
+{
+  "applicant_id": "A-202",
+  "topic": "Study grant application",
+  "facts": [
+    "Applicant stated that their name is Daniyar Qoshan.",
+    "Applicant stated that they sent their transcript last week.",
+    "Applicant stated that their income band is 2 and that their family certificate says so.",
+    "Applicant stated that they could not upload their id card because their home scanner broke.",
+    "Applicant stated that their sister Aruzhan applied last year and is on file.",
+    "Applicant stated that a scanned employer letter may be relevant to the application."
+  ],
+  "decisions": [],
+  "constraints": [
+    "Applicant can only come to the office on Thursdays because they have lab all week otherwise.",
+    "The id_card must be submitted and recorded before the grant can be considered."
+  ],
+  "open_questions": [
+    "Whether a scanned employer letter is accepted or the original is required.",
+    "Whether the decision will be made on the same day if the applicant brings the id_card on Thursday."
+  ],
+  "language": "English and Kazakh"
+}
